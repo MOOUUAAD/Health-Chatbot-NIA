@@ -2,15 +2,17 @@ import React from 'react'
 import { Link } from "react-router-dom";
 
 const NavBar = () => {
-    
+  function refreshPage() {
+    window.location.reload(false);
+  }
   return (
     <nav className="bg-blue-900 h-[70px] fixed w-full z-20 top-0 shadow-xl">
     <div className="flex items-center mx-auto h-full px-4 ">
       <a
         className="flex items-center "
-        href='/homepage'
+        onClick={refreshPage}
       >
-        <img src="/assets/logo.png" alt="logo" className='h-14 '/>
+        <img src="/assets/logo.png" alt="logo" className='h-10 md:h-14 cursor-pointer '/>
       </a>
       
       
