@@ -4,7 +4,7 @@ import { TECarousel, TECarouselItem } from "tw-elements-react";
 const Carousel = () => {
   return (
     <>
-      <TECarousel showControls showIndicators ride="carousel" className="px-16 mb-20 sm:px-24 lg:px-32 xl:px-72 py-0">
+      <TECarousel showControls showIndicators ride="carousel" className="px-16 mb-20 sm:px-24 lg:px-32 xl:px-72 py-0 z-[-10]">
         <div className="relative w-full overflow-hidden after:clear-both after:block after:content-['']">
           <TECarouselItem
             itemID={1}

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const NavBar = () => {
     
   return (
-    <nav className="bg-blue-900 h-[70px] fixed w-full z-40 top-0 shadow-xl">
+    <nav className="bg-blue-900 h-[70px] fixed w-full z-20 top-0 shadow-xl">
     <div className="flex items-center mx-auto h-full px-4 ">
       <a
         className="flex items-center "
