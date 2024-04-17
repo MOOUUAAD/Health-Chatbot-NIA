@@ -15,14 +15,14 @@ const Hero = () => {
             </h2>
             <a
               type="button"
-              className="rounded border-2 border-neutral-50 px-[46px] pt-[14px] pb-[12px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-neutral-100 hover:bg-neutral-100 hover:bg-opacity-10 hover:text-neutral-100 focus:border-neutral-100 focus:text-neutral-100 focus:outline-none focus:ring-0 active:border-neutral-200 active:text-neutral-200 cursor-pointer"
+              className="rounded border-2 border-neutral-50 px-[46px] pt-[14px] pb-[12px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-neutral-100 hover:bg-neutral-100 hover:bg-opacity-10 hover:text-neutral-100  cursor-pointer"
               data-te-ripple-init=""
               data-te-ripple-color="light"
               onClick={() => {
                 window.botpressWebChat.sendEvent({ type: "show" });
               }}
             >
-              Get started
+              Get start
             </a>
           </div>
         </div>
