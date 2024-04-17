@@ -3,7 +3,7 @@ import Chatbot from "./Chatbot";
 
 const Hero = () => {
   return (
-    <div className="relative bg-left bg-cover bg-no-repeat bg-[url('https://content.presentermedia.com/files/clipart/00029000/29855/ai_robot_doctor_800_wht.jpg')] md:bg-[url('https://static.vecteezy.com/system/resources/previews/033/118/415/large_2x/robotic-doctor-with-artificial-intelligence-photo.JPG')] h-screen">
+    <div className="relative pt-32 bg-top bg-cover bg-no-repeat bg-[url('https://content.presentermedia.com/files/clipart/00029000/29855/ai_robot_doctor_800_wht.jpg')] md:bg-[url('https://static.vecteezy.com/system/resources/previews/033/118/415/large_2x/robotic-doctor-with-artificial-intelligence-photo.JPG')] h-screen">
       <div className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsla(0,0%,0%,0.65)] bg-fixed">
         <div className="flex mt-36 items-center justify-center">
           <div className="px-6 text-center text-white md:px-12">

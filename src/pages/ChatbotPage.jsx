@@ -10,10 +10,6 @@ const ChatbotPage = () => {
     <NavBar />
     <Hero/>
     <Chatbot/>
-    
-
-
-
 
     </>
   )

@@ -10,7 +10,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/homepage" element={<Homepage/>} />
+        <Route path="/" element={<Homepage/>} />
         <Route path="/chatbotpage" element={<ChatbotPage/>} />
       </Routes>
     </BrowserRouter>
