@@ -43,23 +43,22 @@ const HomeHero = () => {
             National Institutional Acceleration
           </h2>
           <div className="mt-7">
-                  <p className=" text-white mt-4 text-base leading-7">
-                    L'Association NIA incarne l'excellence dans le domaine de la
-                    recherche scientifique et de l'innovation technologique. En
-                    tant qu'organisme à but non lucratif, elle se distingue par
-                    son approche multidisciplinaire, opérant au sein du milieu
-                    académique avec une vision pionnière et distinguée ; se
-                    positionner à lintersection des instituts universitaires et
-                    des structures de recherche.
-                  </p>
-                  <p className=" text-white mt-4 text-base leading-7">
-                    Fondée par des médecins et des ingénieurs, elle est
-                    aujourdhui désormais un Hub scientifique d'échanges et de
-                    collaboration, réunissant diverses facultés et écoles
-                    supérieures, par une vision commune d'innovation et de
-                    progrès technologique nationale.
-                  </p>
-                </div>
+            <p className=" text-white mt-4 text-base leading-7">
+              L'Association NIA incarne l'excellence dans le domaine de la
+              recherche scientifique et de l'innovation technologique. En tant
+              qu'organisme à but non lucratif, elle se distingue par son
+              approche multidisciplinaire, opérant au sein du milieu académique
+              avec une vision pionnière et distinguée ; se positionner à
+              lintersection des instituts universitaires et des structures de
+              recherche.
+            </p>
+            <p className=" text-white mt-4 text-base leading-7">
+              Fondée par des médecins et des ingénieurs, elle est aujourdhui
+              désormais un Hub scientifique d'échanges et de collaboration,
+              réunissant diverses facultés et écoles supérieures, par une vision
+              commune d'innovation et de progrès technologique nationale.
+            </p>
+          </div>
         </div>
       </div>
     </div>
