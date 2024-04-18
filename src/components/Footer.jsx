@@ -6,8 +6,8 @@ const Footer = () => {
     <footer class=" rounded-lg shadow m-3 ">
       <div class="w-full mx-auto max-w-screen-xl p-2 flex flex-col justify-center items-center ">
         <h1 class="text-sm text-gray-500 sm:text-center ">Powered by </h1>
-        <div className="flex ">
-          <div className="flex  justify-center items-center gap-1">
+        <div className="flex justify-start items-start">
+          <div className="flex flex-col md:flex-row justify-center items-center gap-1">
             <a
               href="https://linkedin.com/in/mouad-el-maslouhi-438038295"
               target="_blank"
@@ -20,7 +20,7 @@ const Footer = () => {
             </a>
           </div>
           <span className="text-gray-500 mx-2"> & </span>{" "}
-          <div className="flex flex-col md:flex-row  justify-center items-center gap-1">
+          <div className="flex flex-col md:flex-row justify-center items-start md:items-center gap-1">
             <a
               href="https://www.linkedin.com/in/othmane-tachafine-213275245/"
               target="_blank"
