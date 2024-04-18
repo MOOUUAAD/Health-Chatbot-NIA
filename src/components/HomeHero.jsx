@@ -45,7 +45,7 @@ const HomeHero = () => {
           <div className="mt-7">
                   <p className=" text-white mt-4 text-base leading-7">
                     L'Association NIA incarne l'excellence dans le domaine de la
-                    recherche scientifique et de linnovation technologique. En
+                    recherche scientifique et de l'innovation technologique. En
                     tant qu'organisme à but non lucratif, elle se distingue par
                     son approche multidisciplinaire, opérant au sein du milieu
                     académique avec une vision pionnière et distinguée ; se
