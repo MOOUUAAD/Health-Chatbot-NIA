@@ -49,7 +49,7 @@ const HomeHero = () => {
               qu'organisme à but non lucratif, elle se distingue par son
               approche multidisciplinaire, opérant au sein du milieu académique
               avec une vision pionnière et distinguée ; se positionner à
-              lintersection des instituts universitaires et des structures de
+              l'intersection des instituts universitaires et des structures de
               recherche.
             </p>
             <p className=" text-white mt-4 text-base leading-7">
