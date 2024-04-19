@@ -58,6 +58,7 @@ const HomeHero = () => {
               réunissant diverses facultés et écoles supérieures, par une vision
               commune d'innovation et de progrès technologique nationale.
             </p>
+
           </div>
         </div>
       </div>
